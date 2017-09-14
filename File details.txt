@@ -1,0 +1,11 @@
+The below files have respectively:
+
+MTI1: It contains the Modified Transport inpainting method for the orange image.
+
+MTI2: It contains the Modified Transport inpainting method for the image named 2.
+
+ns: It contains the Navier stokes equation for the orange image.
+
+ns2: It contains the Navier stokes equation for the image named 2 which is a famous image used for inpainting.
+
+Testimage: contains the code for the test image function and their results
